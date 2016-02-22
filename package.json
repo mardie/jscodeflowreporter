@@ -1,0 +1,17 @@
+{
+  "name": "jscodeflowreporter",
+  "version": "0.0.1",
+  "description": "Code Flow reporter generator for javascript visualization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego Marquina",
+  "license": "MIT",
+  "dependencies": {
+    "esmorphcodeflow": "mardie/esmorphcodeflow",
+    "glob": "^7.0.0",
+    "minimist": "^1.2.0",
+    "mkdirp": "^0.5.1"
+  }
+}

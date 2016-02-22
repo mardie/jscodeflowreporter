@@ -1,0 +1,4 @@
+codeFlowReporter file1.js (./dir/file2.js) (./src/*.js) [options]
+    options:
+    -o output folder. [./]
+
